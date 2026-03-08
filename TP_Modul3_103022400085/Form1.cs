@@ -6,5 +6,10 @@ namespace TP_Modul3_103022400085
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
