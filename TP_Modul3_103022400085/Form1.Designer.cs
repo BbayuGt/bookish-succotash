@@ -39,7 +39,7 @@
             button8 = new Button();
             button9 = new Button();
             buttonplus = new Button();
-            button11 = new Button();
+            button0 = new Button();
             buttonequal = new Button();
             SuspendLayout();
             // 
@@ -51,8 +51,6 @@
             output.Name = "output";
             output.Size = new Size(438, 147);
             output.TabIndex = 0;
-            output.Text = "Label Output";
-            output.Click += label1_Click;
             // 
             // button1
             // 
@@ -63,6 +61,7 @@
             button1.TabIndex = 1;
             button1.Text = "1";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += numButton_Click;
             // 
             // button2
             // 
@@ -73,6 +72,7 @@
             button2.TabIndex = 2;
             button2.Text = "2";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += numButton_Click;
             // 
             // button3
             // 
@@ -83,6 +83,7 @@
             button3.TabIndex = 3;
             button3.Text = "3";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += numButton_Click;
             // 
             // button4
             // 
@@ -93,6 +94,7 @@
             button4.TabIndex = 4;
             button4.Text = "4";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += numButton_Click;
             // 
             // button5
             // 
@@ -103,6 +105,7 @@
             button5.TabIndex = 5;
             button5.Text = "5";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += numButton_Click;
             // 
             // button6
             // 
@@ -113,6 +116,7 @@
             button6.TabIndex = 6;
             button6.Text = "6";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += numButton_Click;
             // 
             // button7
             // 
@@ -123,6 +127,7 @@
             button7.TabIndex = 7;
             button7.Text = "7";
             button7.UseVisualStyleBackColor = true;
+            button7.Click += numButton_Click;
             // 
             // button8
             // 
@@ -133,6 +138,7 @@
             button8.TabIndex = 8;
             button8.Text = "8";
             button8.UseVisualStyleBackColor = true;
+            button8.Click += numButton_Click;
             // 
             // button9
             // 
@@ -143,6 +149,7 @@
             button9.TabIndex = 9;
             button9.Text = "9";
             button9.UseVisualStyleBackColor = true;
+            button9.Click += numButton_Click;
             // 
             // buttonplus
             // 
@@ -153,16 +160,18 @@
             buttonplus.TabIndex = 10;
             buttonplus.Text = "+";
             buttonplus.UseVisualStyleBackColor = true;
+            buttonplus.Click += buttonplus_Click;
             // 
-            // button11
+            // button0
             // 
-            button11.Font = new Font("Segoe UI", 15F);
-            button11.Location = new Point(302, 554);
-            button11.Name = "button11";
-            button11.Size = new Size(118, 111);
-            button11.TabIndex = 11;
-            button11.Text = "0";
-            button11.UseVisualStyleBackColor = true;
+            button0.Font = new Font("Segoe UI", 15F);
+            button0.Location = new Point(302, 554);
+            button0.Name = "button0";
+            button0.Size = new Size(118, 111);
+            button0.TabIndex = 11;
+            button0.Text = "0";
+            button0.UseVisualStyleBackColor = true;
+            button0.Click += numButton_Click;
             // 
             // buttonequal
             // 
@@ -173,6 +182,7 @@
             buttonequal.TabIndex = 12;
             buttonequal.Text = "=";
             buttonequal.UseVisualStyleBackColor = true;
+            buttonequal.Click += buttonequal_Click;
             // 
             // Form1
             // 
@@ -180,7 +190,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(784, 761);
             Controls.Add(buttonequal);
-            Controls.Add(button11);
+            Controls.Add(button0);
             Controls.Add(buttonplus);
             Controls.Add(button9);
             Controls.Add(button8);
@@ -210,7 +220,7 @@
         private Button button8;
         private Button button9;
         private Button buttonplus;
-        private Button button11;
+        private Button button0;
         private Button buttonequal;
     }
 }

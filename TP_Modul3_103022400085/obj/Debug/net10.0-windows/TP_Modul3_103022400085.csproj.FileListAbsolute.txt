@@ -1,0 +1,17 @@
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\bin\Debug\net10.0-windows\TP_Modul3_103022400085.exe
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\bin\Debug\net10.0-windows\TP_Modul3_103022400085.deps.json
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\bin\Debug\net10.0-windows\TP_Modul3_103022400085.runtimeconfig.json
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\bin\Debug\net10.0-windows\TP_Modul3_103022400085.dll
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\bin\Debug\net10.0-windows\TP_Modul3_103022400085.pdb
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\TP_Modul3_103022400085.Form1.resources
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\TP_Modul3_103022400085.csproj.GenerateResource.cache
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\TP_Modul3_103022400085.GeneratedMSBuildEditorConfig.editorconfig
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\TP_Modul3_103022400085.AssemblyInfoInputs.cache
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\TP_Modul3_103022400085.AssemblyInfo.cs
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\TP_Modul3_103022400085.csproj.CoreCompileInputs.cache
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\TP_Modul3_103022400085.sourcelink.json
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\TP_Modul3_103022400085.dll
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\refint\TP_Modul3_103022400085.dll
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\TP_Modul3_103022400085.pdb
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\TP_Modul3_103022400085.genruntimeconfig.cache
+Z:\KPL\TP_Modul3_103022400085\TP_Modul3_103022400085\obj\Debug\net10.0-windows\ref\TP_Modul3_103022400085.dll
